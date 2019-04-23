@@ -119,7 +119,7 @@ $(document).ready(function(){
       var randomColor = colorArray[Math.floor(Math.random()*colorArray.length)];
       var weightArray = [100,900];
       var randomFontWeight = weightArray[Math.floor(Math.random()*weightArray.length)];
-      var randomFontSize = (Math.random() * (Math.random() * 5) + 2).toFixed() + 'vw';
+      var randomFontSize = (Math.random() * (Math.random() * 15) + 2).toFixed() + 'vw';
       var randomBlur = 'blur(' + ((Math.random() * 10)  + 1) + "px)";
       var randomTime = ((Math.random() * 20 + 10).toFixed()) + 's';
 
