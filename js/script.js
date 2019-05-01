@@ -84,7 +84,7 @@
      //   return randomPics();
      // });
 
-     window.setInterval(randomPics, 6000);
+     window.setInterval(randomPics, 10000);
    });
 
 

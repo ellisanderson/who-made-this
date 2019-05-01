@@ -57,7 +57,7 @@ body::-webkit-scrollbar {
   font-family: 'open sans', sans-serif;
   font-weight: 900;
   z-index: 2;
-  transition: all 10s linear;
+  transition: all 20s linear;
   cursor: crosshair;
   mix-blend-mode: exclusion; }
 
